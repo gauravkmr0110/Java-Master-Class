@@ -1,0 +1,10 @@
+Collection Interface Methods 
+
+add()
+remove()
+size()
+isEmpty()
+contains()
+clear()
+
+
